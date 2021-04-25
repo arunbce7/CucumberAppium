@@ -1,0 +1,16 @@
+pages/AddContactsPage.java
+ pages.AddContactsPage
+steps/StepDefinitions.java
+ steps.StepDefinitions
+pages/ContactsPage.java
+ pages.ContactsPage
+TestRunner.java
+ TestRunner
+pages/ContactsInformationPage.java
+ pages.ContactsInformationPage
+pages/DownloadsPage.java
+ pages.DownloadsPage
+pages/SettingsPage.java
+ pages.SettingsPage
+appiumdriver/AndroidDriver.java
+ appiumdriver.AndroidDriver
